@@ -7,4 +7,4 @@ These are tutorials for computer tool, and listed in order.
 
 2.effects_quantification  
 
-3.validation
+3.model_validation
